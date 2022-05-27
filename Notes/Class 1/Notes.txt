@@ -1,0 +1,8 @@
+1. Create 4-5 class in java
+2. Create 9 member variables and use them
+3. Create getters and setters
+4. Call created class from other class and set those values and print it.
+5. try doing a workaround access modifiers.
+6. Try to implement feature other than abstraction
+HW
+8793538938
